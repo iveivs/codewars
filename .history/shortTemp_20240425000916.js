@@ -1,0 +1,6 @@
+
+
+function findMissingLetter(array)
+{
+  return ' ';
+}
